@@ -1,5 +1,5 @@
 {
-    "name": "foroco/php-browser-detection",
+    "name": "saturn-ru/php-browser-detection",
     "type": "library",
     "description": "Ultra fast PHP library to detect browser, OS, platform and device type by User-Agent parsing",
     "keywords": ["user-agent","php","browser","detection","environment","useragent"],
